@@ -7,3 +7,7 @@
 //axios, react-chartjs-2 react-countup
 
 //My own implemented changes below:
+
+1/27
+ - added a label for the NativeSelect element
+ - added the fix for country='global'
